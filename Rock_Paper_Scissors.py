@@ -1,3 +1,4 @@
+#import library
 import random
 
 # create a list of options
